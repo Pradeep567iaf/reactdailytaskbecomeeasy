@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ul6y=_d0u$3&up1_^*dwp@)*j0bs7i3b+sqb!1uli%=6zvynbz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','https://comboreactapp.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','comboreactapp.herokuapp.com/']
 
 CORS_ORIGIN_ALLOW_ALL = False
 CORS_ALLOW_CREDENTIALS = True
